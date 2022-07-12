@@ -353,7 +353,7 @@ header {
     margin-right: .5rem;
     opacity: 1;
     animation: fadein 5s ease-in-out;
-    animation-delay:;
+    /* animation-delay:; */
 }
 
 
@@ -367,7 +367,7 @@ header {
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
-    background:;
+    /* background:; */
     animation: spin 3.5s ease-in-out;
 }
 
@@ -1358,7 +1358,7 @@ footer {
 @keyframes xxxxanimeiconsfinishphonelandscape{
        0% {
         top: 50vh;
-        left 50vw;
+        left: 50vw;
     }
 
     20% {
@@ -1374,7 +1374,7 @@ footer {
 @keyframes xxxxanimeiconsfinishpc {
        0% {
         top: 50vh;
-        left 50vw;
+        left: 50vw;
     }
 
     20% {

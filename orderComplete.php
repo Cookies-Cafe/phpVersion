@@ -101,7 +101,7 @@ Order List      [$orderList]
 
 function htmlcleaner($array1 , $array2){
     for ($valuelength=0; $valuelength<7; ++$valuelength){
-    global $$array1[$valuelength];
+    // global  $$array1[$valuelength];
     $$array1[$valuelength]= htmlentities(str_replace('&',"[and]",$array2[$valuelength]));
         }
 }
