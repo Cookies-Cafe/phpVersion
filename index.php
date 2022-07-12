@@ -60,7 +60,7 @@ $aboutContent= "Our casual atmosphere, quality food, friendly staff and attentiv
                             <a href="#" class="btn body-btn">Contact Us</a>
                         </div>
                         <div class="restaurant-info-img" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="600">
-                            <img src="images2/discover-our-story.jpg" alt="resturant info pic">
+                            <img src="images2/discover-our-story-pic.jpg" alt="resturant info pic">
                         </div>
                     </div>
                 </div>
@@ -214,7 +214,7 @@ $aboutContent= "Our casual atmosphere, quality food, friendly staff and attentiv
                 <div class="container">
                     <div class="restaurant-info">
                         <div class="restaurant-info-img" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="600">
-                            <img src="images2/order.png" alt="order guy pic">
+                            <img src="images2/order-pic.png" alt="order guy pic">
                         </div>
                         <div class="restaurant-description padding-left" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="600">
                             <div class="global-headline">
@@ -256,7 +256,7 @@ $aboutContent= "Our casual atmosphere, quality food, friendly staff and attentiv
                             <a href="#" class="btn body-btn">get all location</a>
                         </div>
                         <div class="restaurant-info-img" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="100">
-                            <img src="images2/menu-map.png" alt="map icon pic">
+                            <img src="images2/menu-map-pic.png" alt="map icon pic">
                         </div>
                     </div>
                 </div>
