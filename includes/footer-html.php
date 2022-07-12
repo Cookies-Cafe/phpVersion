@@ -61,7 +61,7 @@
                             </div>
                         </div>
                     </div>
-                    <div id="copy-right">
+                    <div id="footer-copy-right">
                         <h4>© 2022
                             <a href="https://dagim-shimelis.netlify.app/" target="_blank">
                             Dagim Shimelis.</a> All Rights Reserved.
