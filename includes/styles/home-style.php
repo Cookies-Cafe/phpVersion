@@ -687,7 +687,7 @@ footer {
 
 }
 
-#footer-copy-right {
+#copy-right {
     text-align: center;
     position: absolute;
     bottom: 0;
@@ -697,7 +697,7 @@ footer {
     background-color: rgba(209, 180, 21, 0.3);
 }
 
-#footer-copy-right h4 a{
+#copy-right h4 a{
   font-family: abel;
     color:whitesmoke;
     font-size: 1.3rem;

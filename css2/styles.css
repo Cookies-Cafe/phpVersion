@@ -684,20 +684,20 @@ footer {
 
 }
 
-#footer-copy-right {
+#copy-right {
     text-align: center;
     position: absolute;
     bottom: 0;
     width: 100%;
     margin: 6rem 0 0 0;
     padding: 20px;
-    background-color: rgba(209, 180, 21, 0.3);
+    background-color: rgba(209, 181, 21, 0.419);
 }
 
-#footer-copy-right h4 a {
+#copy-right h4 a {
     font-family: abel;
     color:whitesmoke;
-    font-size: 1.3rem;
+    font-size: 1rem;
     letter-spacing: .2rem;
     width: 20rem;
     margin: 0 auto;

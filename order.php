@@ -1108,9 +1108,9 @@ require_once 'includes/hero-html.php';
                             <i class="fas fa-arrow-up"></i>
                         </a>
                     </div>
-                    <div id="footer-copy-right">
-                        <h4>© 2022
-                            <a href="https://dagim-shimelis.netlify.app/" target="_blank">
+                    <div id="copy-right" style="font-size: 0.7rem; text-align: center; position: absolute; bottom: 0; width: 100%; margin: 6rem 0 0 0; padding: 20px; background-color: rgba(209, 181, 21, 0.419);">
+                        <h4 style="width:100vw; font-size: 0.8rem;">© 2022
+                            <a href="https://dagim-shimelis.netlify.app/" target="_blank" style="font-family: abel; color:whitesmoke; font-size: 1rem; letter-spacing: .2rem; width: 20rem; margin: 0 auto;text-transform: uppercase;">
                             Dagim Shimelis.</a> All Rights Reserved.
                     </h4>
                     </div>
