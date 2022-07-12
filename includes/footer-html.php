@@ -62,6 +62,9 @@
                         </div>
                     </div>
                     <div id="copy-right">
-                        <h4>dagi web design. 2020 &copy;</h4>
+                        <h4>© 2022
+                            <a href="https://dagim-shimelis.netlify.app/" target="_blank">
+                            Dagim Shimelis.</a> All Rights Reserved.
+                    </h4>
                     </div>
                 </div>

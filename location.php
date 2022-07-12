@@ -12,7 +12,7 @@ $heroHeadline = "every branch"; #in hero-html.php
 $heroMoto = "come and enjoy<span id=\"newline\"> your time.</span>"; #in hero-html.php
 $locationFooter="location-footer";
 $aboutTitle= "ABOUT OUR BRANCHES";    #in footer-html.php
-$aboutContent= "As I have tried to mention above the main part of philosophy is questioning, questioning of the apparent. Even though philosophers ask about everything, there basic aim is not to learn how to do something or how to solve their problems." ;
+$aboutContent= "Want to come by? you can use the link above to see all the locations of our 6 branches spread all ove the country so you can see and find the closest one to you. we will be waiting for you!" ;
         #in footer-html.php
 # the include file for all head htmls 
    require_once("includes/head-html.php"); 
@@ -49,10 +49,10 @@ require_once("includes/loader-html.php");
                         <h1 class="headline  ">how to find us</h1>
                         <div class="cookie"><i class="fas fa-cookie-bite"></i></div>
                     </div>
-                    <p>As I have tried to mention above the main part of philosophy is questioning, questioning of the apparent. Even though philosophers ask about everything, there basic aim is not to learn how to do something or how to solve their problems.....</p>
+                    <p>We have cafes in 6 areas spread throughout the country & one of the questions that our customers frequently ask us how to locate our cafe in the city that there in. As you'll see below its super easy...</p>
                 </div>
                 <div class="restaurant-info-img" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="600">
-                    <img src="images2/Map-light2.png" alt="resturant info pic">
+                    <img src="images2/map-pic1.jpg" alt="resturant info pic">
                 </div>
             </div>
         </div>
@@ -66,10 +66,10 @@ require_once("includes/loader-html.php");
             <div class="restaurant-info location-info">
                 <div class="restaurant-description padding-right" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="600">
 
-                    <p>....As I have tried to mention above the main part of philosophy is questioning, questioning of the apparent. Even though philosophers ask about everything, there basic aim is not to learn how to do something or how to solve their problems.</p>
+                    <p>... blow is a list of cities that our cafes are located, pick the one your in or the closest to you. then click the name of the city to reveal more information. in the module you can find the exact location, a simple map, telephone number of that cafe a link to the GPS location for you to use. like we says its a piece of cake. </p>
                 </div>
                 <div class="restaurant-info-img" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="600">
-                    <img src="images2/gpsguy.png" alt="resturant info pic">
+                    <img src="images2/map-pic2.jpg" alt="resturant info pic">
                 </div>
             </div>
         </div>

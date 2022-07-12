@@ -11,7 +11,7 @@ $heroSubHeadline = ""; #in hero-html.php
 $heroHeadline = "ORDER COMPLETE"; #in hero-html.php
 $heroMoto = "we will be there<span id=\"newline\">shortly.</span>"; #in hero-html.php
 $aboutTitle= "ABOUT DELIVERIES";    #in footer-html.php
-$aboutContent= "As I have tried to mention above the main part of philosophy is questioning, questioning of the apparent. Even though philosophers ask about everything, there basic aim is not to learn how to do something or how to solve their problems." ;
+$aboutContent= "HUNGRY? ORDER FOR PICKUP OR DELIVERY! we provide online orders and deliveries on 5 cities all around ethiopia. we have various options and fast delivery to bring hot and steamy food right to your door steps." ;
         #in footer-html.php
 # the include file for all head htmls 
    require_once("includes/head-html.php"); 
@@ -46,7 +46,7 @@ require_once("includes/styles/order-style.php");
 
 
 
-<div class="verify container" style="display:block;>
+<div class="verify container" style="display:block">
         <p>your order has been reacives <spam>seccsesfuly</spam>. we will be there shortly.</p>
         <br><i class="fa fa-id-badge cookie"></i>
         <p>your verification ID is <spam id="vID">---------</spam><br>you will need it to reacive your ourder.<spam> SO SAVE/REMEMBER IT </spam><big> THANK YOU.</big>
@@ -61,9 +61,12 @@ require_once("includes/styles/order-style.php");
                             <i class="fas fa-arrow-up"></i>
                         </a>
                     </div>
-        <div id="copy-right">
-            <h4>dagi web design. 2020&copy;</h4>
-        </div>
+                    <div id="copy-right">
+                        <h4>© 2022
+                            <a href="https://dagim-shimelis.netlify.app/" target="_blank">
+                            Dagim Shimelis.</a> All Rights Reserved.
+                    </h4>
+                    </div>
     </div>
 
     

@@ -11,7 +11,7 @@ $heroSubHeadline = "c</span>heck out the"; #in hero-html.php
 $heroHeadline = "menu"; #in hero-html.php
 $heroMoto = "we provide a veraity of <span id=\"newline\">choices</span>"; #in hero-html.php
 $aboutTitle= "ABOUT THE MENU";    #in footer-html.php
-$aboutContent= "As I have tried to mention above the main part of philosophy is questioning, questioning of the apparent. Even though philosophers ask about everything, there basic aim is not to learn how to do something or how to solve their problems." ;
+$aboutContent= "Our menu is comprised of various options that have our customers in mind. you can be sure to find what you want in our vast list of options that have been hand picked by our renowned and talented chefs. Don't believe us? use the link below to check our menu." ;
         #in footer-html.php
 # the include file for all head htmls 
    require_once("includes/head-html.php"); 

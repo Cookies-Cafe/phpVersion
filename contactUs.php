@@ -10,8 +10,8 @@ $activeContact = "active"; #in navigation-html.php
 $heroSubHeadline = "G</span>et in touch &amp;"; #in hero-html.php
 $heroHeadline = "contact us"; #in hero-html.php
 $heroMoto = "we are here to serve <span id=\"newline\">you.</span>"; #in hero-html.php
-$aboutTitle= "MORE ABOUT US";    #in footer-html.php
-$aboutContent= "As I have tried to mention above the main part of philosophy is questioning, questioning of the apparent. Even though philosophers ask about everything, there basic aim is not to learn how to do something or how to solve their problems." ;
+$aboutTitle= "ABOUT US";    #in footer-html.php
+$aboutContent= "Our casual atmosphere, quality food, friendly staff and attentive service are what we have become known for and keeps our customers coming back and back again. We look forward to serving you!" ;
         #in footer-html.php
 # the include file for all head htmls 
    require_once("includes/head-html.php"); 

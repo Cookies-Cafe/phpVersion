@@ -1,18 +1,18 @@
-<?php 
+<?php
 ########################################
 ######       ORDER PAGE           #######
 ########################################
-require_once("includes/constants.php"); 
-    require_once("includes/functions.php");
+require_once 'includes/constants.php';
+require_once 'includes/functions.php';
 # the variables for this page only
-$pageTitle= "Cookies Cafe |Order"; #in head-html.php
-$activeOrder = "active"; #in navigation-html.php
-$heroSubHeadline = "o</span>rder food"; #in hero-html.php
-$heroHeadline = "online"; #in hero-html.php
+$pageTitle = 'Cookies Cafe |Order'; #in head-html.php
+$activeOrder = 'active'; #in navigation-html.php
+$heroSubHeadline = 'o</span>rder food'; #in hero-html.php
+$heroHeadline = 'online'; #in hero-html.php
 $heroMoto = "choose and order with just<span id=\"newline\"> one click.</span>"; #in hero-html.php
-  #in footer-html.php
-# the include file for all head htmls 
-   require_once("includes/head-html.php"); 
+#in footer-html.php
+# the include file for all head htmls
+require_once 'includes/head-html.php';
 ?>
 <!----------------------- style for this page only ----
 <link rel="stylesheet" href="./css2/orderstyle.css">
@@ -25,23 +25,19 @@ $heroMoto = "choose and order with just<span id=\"newline\"> one click.</span>";
 
 <!----------------------- style for this page only -------------------------->
 
-<?php
-require_once("includes/styles/order-style.php");
-?>
+<?php require_once 'includes/styles/order-style.php'; ?>
 
 
 </head>
 <!--main loader page and body page starts here-->
 <body id="body">
-<?php
- require_once("includes/loader-html.php");
-?>
+<?php require_once 'includes/loader-html.php'; ?>
 
 <!--main body page -->
   <div id="everything" onload="loaded()">
-<?php 
- require_once("includes/navigation-html.php");
- require_once("includes/hero-html.php");
+<?php
+require_once 'includes/navigation-html.php';
+require_once 'includes/hero-html.php';
 ?>
 <!-- distinct home page content-->
 
@@ -75,7 +71,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/cake1.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate cake</h3>
+                            <h3>Cinnamon cake</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -92,7 +88,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/cake2.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate cake</h3>
+                            <h3>Biscuit cake</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -109,7 +105,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/cake3.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate cake</h3>
+                            <h3>Coffee cake</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -127,7 +123,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/cake4.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate cake</h3>
+                            <h3>Vanilla cake</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -142,9 +138,9 @@ require_once("includes/styles/order-style.php");
                         </div>
                     </div>
                     <div class="menu-content">
-        <!----> <img class="menu-img" src="images2/cakePicsArt_05-07-07.40.54.jpg" alt="menu pic">
+        <!----> <img class="menu-img" src="images2/cake5.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate cake</h3>
+                            <h3>Pink Panther cake</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -159,9 +155,9 @@ require_once("includes/styles/order-style.php");
                         </div>
                     </div>
                     <div class="menu-content">
-                        <img class="menu-img" src="images2/PicsArt_05-07-07.40.54.jpg" alt="menu pic">
+                        <img class="menu-img" src="images2/cake6.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate cake</h3>
+                            <h3>Strawberry cake cake</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -191,7 +187,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/ice-cream1.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate ice-cream</h3>
+                            <h3>Triplets ice-cream</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -208,7 +204,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/icecream2.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate ice-cream</h3>
+                            <h3>Oreo ice-cream</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -225,7 +221,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/icecream3.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate ice-cream</h3>
+                            <h3>Cinnamon ice-cream</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -243,7 +239,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/icecream4.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate ice-cream</h3>
+                            <h3>Godzilla ice-cream</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -260,7 +256,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/icecream5.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate ice-cream</h3>
+                            <h3>Peanuts ice-cream</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -277,7 +273,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/icecream6.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate ice-cream</h3>
+                            <h3>Strawberry ice-cream</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -307,7 +303,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/cookie1.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate cookie</h3>
+                            <h3>Sweet cookie</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -324,7 +320,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/cookie2.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate cookie</h3>
+                            <h3>Cinnamon cookie</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -341,7 +337,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/cookie3.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate cookie</h3>
+                            <h3>Dark Chocolate cookie</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -359,7 +355,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/cookie4.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate cookie</h3>
+                            <h3>Multi-flavor cookie</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -376,7 +372,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/cookie5.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate cookie</h3>
+                            <h3>Rolled cookie</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -393,7 +389,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/cookie6.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate cookie</h3>
+                            <h3>Spicy cookie</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -425,7 +421,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/cupcakes1.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate cup-cake</h3>
+                            <h3>Chocolate cup-cake</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -442,7 +438,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/cupcakes2.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate cup-cake</h3>
+                            <h3>Multi-flavor cup-cake</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -459,7 +455,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/cupcakes3.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate cup-cake</h3>
+                            <h3>Orange cup-cake</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -477,7 +473,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/cupcakes4.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate cup-cake</h3>
+                            <h3>Couples cup-cake</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -494,7 +490,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/cupcakes5.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate cup-cake</h3>
+                            <h3>Strawberry cup-cake</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -511,7 +507,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/cupcakes6.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate cup-cake</h3>
+                            <h3>Dark chocolate cup-cake</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -543,7 +539,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/burger1.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate burger</h3>
+                            <h3>Mini burger</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -560,7 +556,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/burger2.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate burger</h3>
+                            <h3>Spicy burger</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -575,9 +571,9 @@ require_once("includes/styles/order-style.php");
                         </div>
                     </div>
                     <div class="menu-content">
-                        <img class="menu-img" src="images2/burger3.png" alt="menu pic">
+                        <img class="menu-img" src="images2/burger3.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate burger</h3>
+                            <h3>European burger</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -595,7 +591,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/burger4.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate burger</h3>
+                            <h3>Vegan burger</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -612,7 +608,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/burger7.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate burger</h3>
+                            <h3>Monster burger</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -629,7 +625,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/burger6.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate burger</h3>
+                            <h3>Triplets burger</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -661,7 +657,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/pizaa1.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate pizza</h3>
+                            <h3>Red-Moon pizza</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -678,7 +674,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/pizaa2.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate pizza</h3>
+                            <h3>Mini pizza</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -695,7 +691,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/pizaa3.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate pizza</h3>
+                            <h3>Spicy pizza</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -713,7 +709,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/pizaa4.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate pizza</h3>
+                            <h3>Mushroom pizza</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -730,7 +726,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/pizaa5.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate pizza</h3>
+                            <h3>Cheesy pizza</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -747,7 +743,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/pizaa6.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate pizza</h3>
+                            <h3>Tomato Sauce pizza</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -779,7 +775,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/drink7.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate fruit-juice</h3>
+                            <h3>Triplets fruit-juice</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -796,7 +792,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/drink2.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate fruit-juice</h3>
+                            <h3>Amazon fruit-juice</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -813,7 +809,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/drink3.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate fruit-juice</h3>
+                            <h3>Lemon fruit-juice</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -831,7 +827,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/drink4.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate fruit-juice</h3>
+                            <h3>Spicy fruit-juice</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -848,7 +844,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/drink5.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate fruit-juice</h3>
+                            <h3>Mango fruit-juice</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -865,7 +861,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/drink10.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate fruit-juice</h3>
+                            <h3>Blackberry fruit-juice</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -895,9 +891,9 @@ require_once("includes/styles/order-style.php");
                 <div class="headline" id="sodas-headline">sodas</div>
                 <div class="owl-carousel owl-theme menu-post" id="sodas-post">
                     <div class="menu-content">
-                        <img class="menu-img" src="images2/drink9.jpg" alt="menu pic">
+                        <img class="menu-img" src="images2/drink11.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate soda</h3>
+                            <h3>7up soda</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -914,7 +910,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/drink8.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate soda</h3>
+                            <h3>Coka Cola soda</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -929,9 +925,9 @@ require_once("includes/styles/order-style.php");
                         </div>
                     </div>
                     <div class="menu-content">
-                        <img class="menu-img" src="images2/drink1.jpg" alt="menu pic">
+                        <img class="menu-img" src="images2/drink12.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate soda</h3>
+                            <h3>Pepsi soda</h3>
                             <div class="count">
                                 <div id="counter">
                                     <p>0</p>
@@ -949,7 +945,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/drink9.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate soda</h3>
+                            <h3>Strawberry soda</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -964,9 +960,9 @@ require_once("includes/styles/order-style.php");
                         </div>
                     </div>
                     <div class="menu-content">
-                        <img class="menu-img" src="images2/drink8.jpg" alt="menu pic">
+                        <img class="menu-img" src="images2/drink13.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate soda</h3>
+                            <h3>Mundel soda</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -983,7 +979,7 @@ require_once("includes/styles/order-style.php");
                     <div class="menu-content">
                         <img class="menu-img" src="images2/drink1.jpg" alt="menu pic">
                         <div class="main-title">
-                            <h3>chocolate soda</h3>
+                            <h3>Lemon soda</h3>
                             <div class="count">
                                 <div id="counter1">
                                     <p>0</p>
@@ -1112,9 +1108,12 @@ require_once("includes/styles/order-style.php");
                             <i class="fas fa-arrow-up"></i>
                         </a>
                     </div>
-        <div id="copy-right">
-            <h4>dagi web design. 2020&copy;</h4>
-        </div>
+                    <div id="copy-right">
+                        <h4>© 2022
+                            <a href="https://dagim-shimelis.netlify.app/" target="_blank">
+                            Dagim Shimelis.</a> All Rights Reserved.
+                    </h4>
+                    </div>
     </div>
         
 

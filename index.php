@@ -11,7 +11,7 @@ $heroSubHeadline = "W</span>elcome"; #in hero-html.php
 $heroHeadline = "cookies cafe"; #in hero-html.php
 $heroMoto = "Make your life a bit more <span id=\"newline\">sweeter.</span>"; #in hero-html.php
 $aboutTitle= "ABOUT US";    #in footer-html.php
-$aboutContent= "As I have tried to mention above the main part of philosophy is questioning, questioning of the apparent. Even though philosophers ask about everything, there basic aim is not to learn how to do something or how to solve their problems." ;
+$aboutContent= "Our casual atmosphere, quality food, friendly staff and attentive service are what we have become known for and keeps our customers coming back and back again. We look forward to serving you!" ;
         #in footer-html.php
 # the include file for all head htmls 
    require_once("includes/head-html.php"); 
@@ -56,7 +56,7 @@ $aboutContent= "As I have tried to mention above the main part of philosophy is 
                                     <i class="fas fa-cookie-bite"></i>
                                 </div>
                             </div>
-                            <p>As I have tried to mention above the main part of philosophy is questioning, questioning of the apparent. Even though philosophers ask about everything, there basic aim is not to learn how to do something or how to solve their problems.</p>
+                            <p>Settled in Addis Ababa, Adama, Jimma . and various other places all over Ethiopia, Cookies Cafe is a  fast food & cosmopolitan dessert bar offering world-renowned menu items with a trendy & elegant twist.</p>
                             <a href="#" class="btn body-btn">Contact Us</a>
                         </div>
                         <div class="restaurant-info-img" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="600">
@@ -90,7 +90,7 @@ $aboutContent= "As I have tried to mention above the main part of philosophy is 
                                     <i class="fas fa-cookie-bite"></i>
                                 </div>
                             </div>
-                            <p>As I have tried to mention above the main part of philosophy is questioning, questioning of the apparent. Even though philosophers ask about everything, there basic aim is not to learn how to do something or how to solve their problems.</p>
+                            <p>Our menu is comprised of various options that have our customers in mind. you can be sure to find what you want in our vast list of options that have been hand picked by our renowned and talented chefs. Don't believe us? use the link below to check our menu.</p>
                             <a href="#" class="btn body-btn">view the menu</a>
                         </div>
                     </div>
@@ -127,7 +127,7 @@ $aboutContent= "As I have tried to mention above the main part of philosophy is 
                                 <img src="images2/cookie2.jpg" alt="resturant info pic">
                             </div>
                             <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="600">
-                                <img src="images2/burger7.jpg" alt="resturant info pic">
+                                <img src="images2/burger3.jpg" alt="resturant info pic">
                             </div>
                             <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600">
                                 <img src="images2/pizaa3.jpg" alt="resturant info pic">
@@ -148,7 +148,7 @@ $aboutContent= "As I have tried to mention above the main part of philosophy is 
                                     <i class="fas fa-cookie-bite"></i>
                                 </div>
                             </div>
-                            <p>As I have tried to mention above the main part of philosophy is questioning, questioning of the apparent. Even though philosophers ask about everything, there basic aim is not to learn how to do something or how to solve their problems.</p>
+                            <p>We've got some of the best chefs in the country with years of expirince and skills on serving amazing dishes with astonishing speed and quality. you can order online and send your compliments to the chef</p>
                             <a href="#" class="btn body-btn">order now</a>
                         </div>
                     </div>
@@ -173,7 +173,7 @@ $aboutContent= "As I have tried to mention above the main part of philosophy is 
                                     <i class="fas fa-cookie-bite"></i>
                                 </div>
                             </div>
-                            <p>As I have tried to mention above the main part of philosophy is questioning, questioning of the apparent. Even though philosophers ask about everything, there basic aim is not to learn how to do something or how to solve their problems.</p>
+                            <p>At Cookies Cafe you will find real, whole food prepared fresh daily. Everything we serve from breakfast to our sandwiches, salads, soups & more are made to order using only the freshest, highest quality ingredients. Many of our authentic recipes are inspired from the west with unique spices and bold flavors that you can taste in every bite.</p>
                             <a href="#" class="btn body-btn">check out our location</a>
                         </div>
                         <div class="image-group">
@@ -228,7 +228,7 @@ $aboutContent= "As I have tried to mention above the main part of philosophy is 
                                     <i class="fas fa-cookie-bite"></i>
                                 </div>
                             </div>
-                            <p>As I have tried to mention above the main part of philosophy is questioning, questioning of the apparent. Even though philosophers ask about everything, there basic aim is not to learn how to do something or how to solve their problems.</p>
+                            <p>HUNGRY? ORDER FOR PICKUP OR DELIVERY! we provide online orders and deliveries on 6 cities all around ethiopia. we have varios options and fast delivery to bring hot and steamy food right to your door steps.</p>
                             <a href="#" class="btn body-btn">order now</a>
                         </div>
                     </div>
@@ -252,7 +252,7 @@ $aboutContent= "As I have tried to mention above the main part of philosophy is 
                                     <i class="fas fa-cookie-bite"></i>
                                 </div>
                             </div>
-                            <p>As I have tried to mention above the main part of philosophy is questioning, questioning of the apparent. Even though philosophers ask about everything, there basic aim is not to learn how to do something or how to solve their problems.</p>
+                            <p>Want to come by? you can use the link below to see all the locations of our 5 branches spread all ove the country so you can see and find the closest one to you. we will be waiting for you!</p>
                             <a href="#" class="btn body-btn">get all location</a>
                         </div>
                         <div class="restaurant-info-img" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="100">
