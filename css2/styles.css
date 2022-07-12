@@ -29,6 +29,28 @@ html {
     overflow-x: hidden;
     scroll-behavior: smooth;
 }
+/* width */
+::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: transparent;
+    border-radius: 40px;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #d1b515a2;
+    border-radius: 40px;
+  
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #d1b415;
+  }
 
 body {
   background-image: linear-gradient(to top, #434343 0%, #02050c 100%);
