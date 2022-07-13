@@ -356,6 +356,7 @@ require_once("includes/loader-html.php");
                 <img class="town-front2" src="images2/town1.png">
                 <img class="town-front3" src="images2/town1.png">
                 <img class="town-front4" src="images2/town1.png">
+                <img class="town-front5" src="images2/town1.png">
                 </div>
                 
                 <p class="town-middle">cookies cafe</p>

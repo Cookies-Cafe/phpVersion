@@ -83,7 +83,7 @@ $style =<<<_END
 
 .gps-map{
    padding-top: 1rem;
-    width:90%;
+    width:50%;
     height:40%;
     margin:1rem auto 0 ;
 }
