@@ -11,8 +11,8 @@
   <![endif]-->
         <!--web info-->
         <meta name="author" content="Dagi Web Design">
-        <meta name="description" content="One of the best cafe found in adiss that provides cheap and fast delivery services">
-        <meta name="keywords" content="cookies cafe,food delivery,adiss ababa cafe, sweets, dagi web design">
+        <meta name="description" content="One of the best cafe found in addis that provides cheap and fast delivery services">
+        <meta name="keywords" content="cookies cafe,food delivery,adsis ababa cafe, sweets, Dagim Shimelis">
         <link rel="shortcut icon" type="image/png" href="./images2/CookiesCafeLogo.png">
         <link rel="stylesheet" href="./css2/styles.css">
         <!--Font awesome stylesheeet link-->

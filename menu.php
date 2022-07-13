@@ -165,7 +165,7 @@ require_once("includes/styles/menu-style.php");
             </div>
         </div>
         <div class="order-online">
-            <a href="order.html">
+            <a href="order.php">
                 <button class="order-btn btn">
                     <div class="clap">
                         <p>order online</p>

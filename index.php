@@ -57,7 +57,7 @@ $aboutContent= "Our casual atmosphere, quality food, friendly staff and attentiv
                                 </div>
                             </div>
                             <p>Settled in Addis Ababa, Adama, Jimma . and various other places all over Ethiopia, Cookies Cafe is a  fast food & cosmopolitan dessert bar offering world-renowned menu items with a trendy & elegant twist.</p>
-                            <a href="#" class="btn body-btn">Contact Us</a>
+                            <a href="contactUs.php" class="btn body-btn">Contact Us</a>
                         </div>
                         <div class="restaurant-info-img" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="600">
                             <img src="images2/discover-our-story-pic.jpg" alt="resturant info pic">
@@ -91,7 +91,7 @@ $aboutContent= "Our casual atmosphere, quality food, friendly staff and attentiv
                                 </div>
                             </div>
                             <p>Our menu is comprised of various options that have our customers in mind. you can be sure to find what you want in our vast list of options that have been hand picked by our renowned and talented chefs. Don't believe us? use the link below to check our menu.</p>
-                            <a href="#" class="btn body-btn">view the menu</a>
+                            <a href="menu.php" class="btn body-btn">view the menu</a>
                         </div>
                     </div>
                 </div>
@@ -149,7 +149,7 @@ $aboutContent= "Our casual atmosphere, quality food, friendly staff and attentiv
                                 </div>
                             </div>
                             <p>We've got some of the best chefs in the country with years of expirince and skills on serving amazing dishes with astonishing speed and quality. you can order online and send your compliments to the chef</p>
-                            <a href="#" class="btn body-btn">order now</a>
+                            <a href="order.php" class="btn body-btn">order now</a>
                         </div>
                     </div>
                 </div>
@@ -174,7 +174,7 @@ $aboutContent= "Our casual atmosphere, quality food, friendly staff and attentiv
                                 </div>
                             </div>
                             <p>At Cookies Cafe you will find real, whole food prepared fresh daily. Everything we serve from breakfast to our sandwiches, salads, soups & more are made to order using only the freshest, highest quality ingredients. Many of our authentic recipes are inspired from the west with unique spices and bold flavors that you can taste in every bite.</p>
-                            <a href="#" class="btn body-btn">check out our location</a>
+                            <a href="location.php" class="btn body-btn">check out our location</a>
                         </div>
                         <div class="image-group">
                             <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600">
@@ -229,7 +229,7 @@ $aboutContent= "Our casual atmosphere, quality food, friendly staff and attentiv
                                 </div>
                             </div>
                             <p>HUNGRY? ORDER FOR PICKUP OR DELIVERY! we provide online orders and deliveries on 6 cities all around ethiopia. we have varios options and fast delivery to bring hot and steamy food right to your door steps.</p>
-                            <a href="#" class="btn body-btn">order now</a>
+                            <a href="order.php" class="btn body-btn">order now</a>
                         </div>
                     </div>
                 </div>
@@ -253,7 +253,7 @@ $aboutContent= "Our casual atmosphere, quality food, friendly staff and attentiv
                                 </div>
                             </div>
                             <p>Want to come by? you can use the link below to see all the locations of our 5 branches spread all ove the country so you can see and find the closest one to you. we will be waiting for you!</p>
-                            <a href="#" class="btn body-btn">get all location</a>
+                            <a href="location.php" class="btn body-btn">get all location</a>
                         </div>
                         <div class="restaurant-info-img" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="100">
                             <img src="images2/menu-map-pic.png" alt="map icon pic">
